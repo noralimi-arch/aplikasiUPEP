@@ -1,0 +1,26 @@
+allow_membership_product_type,1
+canary-group,control
+canary-key,"2017-10-17 10:40:07"
+captcha_score,0.9
+currency,USD
+disk_storage,225878
+fname,unit
+ftux_scheduling_item_details_upgrade_section,0
+ftux_scheduling_marketing_banner,0
+ftux_scheduling_new_tag,0
+hawat_only,true
+language,en
+last_edited_site,123272939:987468182395539471
+lname,peperiksaan
+locale,MY
+login_path,/login
+marketing_email_test_segment,82
+non_commerce_3,1
+plan_offering,other
+signup_page,https://www.weebly.com/
+source,main
+themes_upgraded,1
+user_storage,223467
+use_hawat,true
+weebly_high_risk_exit_cohort,1
+weebly_high_risk_exit_email,3
